@@ -7,23 +7,23 @@
  */
 const USER_CONFIG = {
   // 请将以下代码按照图示粘贴到对应位置
-  USE_PASSAGE: 'push-deer',
+  //USE_PASSAGE: 'push-deer',
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'PDU20647TqwYPmJD5Y6AAj7zN2KLHi6ETie2MlxTa',
+  APP_ID: 'wxdfa3e62f70dada3b',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '723428c20b38070e90682c28cafe1133',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '江苏',
+  CITY: '连云港',
 
   USERS: [
     {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'offx46NBfKNan9Mh07w4ka8XCl5E',
+      id: 'ooLVC57FgLJrYbsZ20E20xrb0IAg',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
